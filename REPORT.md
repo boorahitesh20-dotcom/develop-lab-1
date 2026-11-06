@@ -1,8 +1,8 @@
 # Lab 1 Report - DevOps Foundations & Continuous Integration
 
 **Course:** DevOps and Automation Lab (ENSP461)  
-**Student:** Ansh Kapoor  
-**Repository:** https://github.com/axdy02/devops-lab1  
+**Student:** Hitesh  
+**Repository:** https://github.com/boorahitesh20-dotcom/develop-lab-1.git 
 **Environment used:** Ubuntu in WSL2 on Windows  
 **Application language:** Python | **Pipeline syntax:** Declarative Jenkins Pipeline
 
@@ -30,7 +30,7 @@ The observed outcomes below come from the student's original screenshots and rep
 | Jenkins service | Enabled and active (running) when captured | [SS06](docs/evidence/screenshots/ss06-jenkins-service.png) |
 | Python | 3.14.4 in the captured test session | [SS13](docs/evidence/screenshots/ss13-local-tests.png), [SS22](docs/evidence/screenshots/ss22-jenkins-console.png) |
 | pytest | 9.1.1 in the captured test session | [SS22](docs/evidence/screenshots/ss22-jenkins-console.png) |
-| GitHub | Repository owner axdy02, primary branch main | [SS20](docs/evidence/screenshots/ss20-github-source.png) |
+| GitHub | Repository owner boorahitesh20-dotcom, primary branch main | [SS20](docs/evidence/screenshots/ss20-github-source.png) |
 
 These are the versions visible in this experiment, not minimum-version requirements or a claim about the latest releases. Docker was available on the host but was not used for this Lab 1 pipeline.
 
@@ -44,7 +44,7 @@ Install and configure Git and Jenkins, verify the environment and configure the 
 
 Ubuntu was opened through WSL2. The Linux version and systemd state were checked before Jenkins setup. Git and a Java 21 runtime were installed, the Jenkins LTS package repository was configured, and Jenkins was started as a systemd service. The browser setup wizard was completed, including plugin installation and creation of an administrator account.
 
-Global Git identity was configured for commits. The captured configuration shows `user.name=axdy02` and a configured `user.email`. The earlier command reference used the display-name example Ansh Kapoor; this report records the actual captured value instead of implying that the example was the observed configuration.
+Global Git identity was configured for commits. The captured configuration shows `user.name=boorahitesh20-dotcom` and a configured `user.email`. The earlier command reference used the display-name example Ansh Kapoor; this report records the actual captured value instead of implying that the example was the observed configuration.
 
 ### Verification commands
 
