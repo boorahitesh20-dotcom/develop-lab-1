@@ -6,7 +6,7 @@
 
 1. The student's [Lab 1 task screenshot](requirements/lab1-tasks.png) and [general instruction screenshot](requirements/general-instructions.png).
 2. The uploaded **Devops lab 1 evidence.docx**, containing 29 embedded PNG images across 10 rendered pages. All 29 original image files are included under `evidence/screenshots`.
-3. The live repository **axdy02/devops-lab1**, read at baseline commit `50715110d0a0c622566ec0175ddf0d73c4560bd6`. The reviewed root contained `.gitignore`, `Jenkinsfile`, `README.md`, `REPORT.md`, `app.py`, `commands.txt`, `requirements.txt` and `test_app.py`.
+3. The live repository **boorahitesh20-dotcom/devops-lab1**, read at baseline commit `50715110d0a0c622566ec0175ddf0d73c4560bd6`. The reviewed root contained `.gitignore`, `Jenkinsfile`, `README.md`, `REPORT.md`, `app.py`, `commands.txt`, `requirements.txt` and `test_app.py`.
 4. Repository commit and branch metadata. Only `main` was listed remotely at that baseline; local feature-branch evidence is in the supplied screenshots.
 
 ## What was and was not verified
