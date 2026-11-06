@@ -1,7 +1,7 @@
 # Lab 1 - DevOps Foundations & Continuous Integration
 
 **Course:** DevOps and Automation Lab (ENSP461)  
-**Student:** Hitesh |**Github:** 'boorahitesh20-dotcom'   
+**Student:** Hitesh |**Github:** `boorahitesh20-dotcom`  
 **Application:** Python addition demo with a Jenkins build, test and local deployment pipeline.
 
 This repository is the submission entry point. It contains the application, version-controlled pipeline, experiment report, command reference and original practical screenshots. An evaluator can review the work directly on GitHub without access to the local Jenkins server.
