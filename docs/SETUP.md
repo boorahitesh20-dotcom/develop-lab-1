@@ -76,10 +76,10 @@ Never capture this command's password output in public evidence. Use it to unloc
 
 ## 5. Git configuration
 
-For a new environment, set the name and email before the first commit. The historical screenshot shows `user.name=axdy02`. Use the real email associated with the intended GitHub attribution, or an appropriate GitHub no-reply address. The placeholder below is not a value to copy unchanged.
+For a new environment, set the name and email before the first commit. The historical screenshot shows `user.name=boorahitesh20-dotcom`. Use the real email associated with the intended GitHub attribution, or an appropriate GitHub no-reply address. The placeholder below is not a value to copy unchanged.
 
 ```bash
-git config --global user.name "axdy02"
+git config --global user.name "boorahitesh20-dotcom"
 git config --global user.email "<YOUR_GIT_EMAIL>"
 git config --global --get user.name
 git config --global --get user.email
