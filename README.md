@@ -1,7 +1,7 @@
 # Lab 1 - DevOps Foundations & Continuous Integration
 
 **Course:** DevOps and Automation Lab (ENSP461)  
-**Student:** Hitesh |   
+**Student:** Hitesh | Github:'boorahitesh20-dotcom'   
 **Application:** Python addition demo with a Jenkins build, test and local deployment pipeline.
 
 This repository is the submission entry point. It contains the application, version-controlled pipeline, experiment report, command reference and original practical screenshots. An evaluator can review the work directly on GitHub without access to the local Jenkins server.
@@ -61,7 +61,7 @@ Jenkins build **#1** shows **2 passed**, the application output `2 + 3 = 5`, and
 In an Ubuntu terminal with Python 3 and `python3-venv` installed:
 
 ```bash
-git clone https://github.com/axdy02/devops-lab1.git
+git clone https://github.com/boorahitesh20-dotcom
 cd devops-lab1
 python3 -m venv venv
 . venv/bin/activate
