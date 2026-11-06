@@ -140,7 +140,7 @@ The configured Jenkins dashboard is accessible in the browser.
 
 **Requirement:** Q1 | **Original document page:** 2
 
-The screenshot shows user.name=axdy02 and a configured user.email. The original email remains visible.
+The screenshot shows user.name=boorahitesh20-dotcom and a configured user.email. The original email remains visible.
 
 <details>
 <summary>Open screenshot SS09</summary>
@@ -277,7 +277,7 @@ The empty GitHub repository setup page is shown.
 
 **Requirement:** Q2 | **Original document page:** 3
 
-gh auth status reports the axdy02 account. The token is masked in the source screenshot.
+gh auth status reports the boorahitesh20-dotcom account. The token is masked in the source screenshot.
 
 <details>
 <summary>Open screenshot SS18</summary>
