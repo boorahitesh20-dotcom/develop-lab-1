@@ -41,7 +41,7 @@ The repository's `.gitignore` excludes the virtual environment, Python caches an
 ## GitHub remote and authentication
 
 ```bash
-git remote add origin https://github.com/axdy02/devops-lab1.git
+git remote add origin https://github.com/boorahitesh20-dotcom/develop-lab-1.git
 git remote -v
 git push -u origin main
 ```
@@ -54,13 +54,13 @@ The local `gh` authentication belongs to the developer's Linux user. It is separ
 
 | Order | Commit | Purpose |
 |---|---|---|
-| 1 | [2719c1e](https://github.com/axdy02/devops-lab1/commit/2719c1e) | Initial Python application setup |
-| 2 | [1235e08](https://github.com/axdy02/devops-lab1/commit/1235e08) | Add unit tests with pytest |
-| 3 | [548ad41](https://github.com/axdy02/devops-lab1/commit/548ad41) | Document CI/CD pipeline stages |
-| 4 | [8b7f655](https://github.com/axdy02/devops-lab1/commit/8b7f655) | Add Jenkins CI/CD pipeline |
-| 5 | [c02a681](https://github.com/axdy02/devops-lab1/commit/c02a681) | Test automated Jenkins trigger |
-| 6 | [a5b3788](https://github.com/axdy02/devops-lab1/commit/a5b3788) | Add Lab 1 command documentation |
-| 7 | [5071511](https://github.com/axdy02/devops-lab1/commit/5071511) | Add Lab 1 CI/CD workflow report |
+| 1 | [2719c1e](https://github.com/boorahitesh20-dotcom/develop-lab-1/commit/2719c1e) | Initial Python application setup |
+| 2 | [1235e08](https://github.com/boorahitesh20-dotcom/develop-lab-1/commit/1235e08) | Add unit tests with pytest |
+| 3 | [548ad41](https://github.com/boorahitesh20-dotcom/develop-lab-1/commit/548ad41) | Document CI/CD pipeline stages |
+| 4 | [8b7f655](https://github.com/boorahitesh20-dotcom/develop-lab-1/commit/8b7f655) | Add Jenkins CI/CD pipeline |
+| 5 | [c02a681](https://github.com/boorahitesh20-dotcom/develop-lab-1/commit/c02a681) | Test automated Jenkins trigger |
+| 6 | [a5b3788](https://github.com/boorahitesh20-dotcom/develop-lab-1/commit/a5b3788) | Add Lab 1 command documentation |
+| 7 | [5071511](https://github.com/boorahitesh20-dotcom/develop-lab-1/commit/5071511) | Add Lab 1 CI/CD workflow report |
 
 The first three short hashes are also visible in the local history screenshots. The review baseline is commit `50715110d0a0c622566ec0175ddf0d73c4560bd6`. Later documentation commits should be added normally, not used to replace this history.
 
